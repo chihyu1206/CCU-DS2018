@@ -1,0 +1,2 @@
+10 10 1019
+Data structures serve as the basis for abstract data type. The abstract data type defines the logical form of the data type. The data structure implements the physical form of the data type.
