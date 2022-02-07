@@ -20,7 +20,7 @@ int main()
 {
     int nodenumber = 0, i = 0, j = 0;
     FILE *fp1 = NULL, *fp2 = NULL;
-    fp1 = fopen("5.node.txt", "r");
+    fp1 = fopen("5node.txt", "r");
     fscanf(fp1, "%d", &nodenumber);
     Node node[nodenumber];
     for (i = 0; i < nodenumber; i++)
